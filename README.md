@@ -9,6 +9,10 @@ Windows 桌面工具，用于查看失败的支线任务、选择物品并将配
 3. 为失败支线选择物品，或选择只完成支线，然后点击底部主按钮提交。写入前退出游戏。
 4. 软件在 `.local/backups/` 保留备份；可通过窗口打开备份目录或恢复本次备份。
 
+## 存档位置与导入
+
+存档位于游戏根目录下 `ProjectPBZ/Saved/SaveGames/Steam/<账号>/PBZSaveGame.sav`。在软件中选择游戏根目录，点击“查找账号”，选择账号后点击“读取这份存档”；软件会读取最近的自动存档。
+
 ## 实现方式
 
 程序基于 PBZ Editor 的提交 `5fdb13483cefde94e6a2f3dba3d258c84e747582`。`desktop_ui.py` 使用 Tk 提供原生窗口，`application.py` 直接调用本地操作层；`quest_editor.py`、`quest_resources.py` 和 `quest_flow_mapping.py` 处理支线与物品。`pbz_editor/` 提供存档与游戏资源读取能力，`native/` 包含开源解码器及其 Rust 源码。原生启动器源码位于 `launcher/launcher.c`，通过随包的 `runtime/pythonw.exe` 启动桌面程序。
