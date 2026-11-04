@@ -1,0 +1,11 @@
+.local/
+.test-tmp/
+.build/
+dist/
+__pycache__/
+*.py[cod]
+*.sav
+.downloads/
+.library-tools/
+.research/
+references/

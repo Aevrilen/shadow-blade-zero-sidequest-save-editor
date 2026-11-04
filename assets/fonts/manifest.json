@@ -1,0 +1,40 @@
+{
+  "origin": "Font subsets embedded in the user-approved UI reference",
+  "license": "SIL Open Font License 1.1; see legal/OFL-1.1.txt",
+  "transformation": "WOFF decompression and sfnt checksum restoration only; font tables and names retained",
+  "loading": "Windows FR_PRIVATE; visible only to this application process",
+  "fonts": [
+    {
+      "role": "body",
+      "family": "Noto Sans CJK SC",
+      "file": "NotoSansCJKsc-Regular.otf",
+      "sha256": "2c91421b31c153db631d705a5659668191ca8a1f7b3d15812c282cfdf8f9dc8d",
+      "woff_source": "sources/NotoSansCJKsc-Regular.woff",
+      "woff_sha256": "6ef59eaff74039cb053bd1fe3c50df749c6415f905c8b796b11674d92e0a35af"
+    },
+    {
+      "role": "medium",
+      "family": "Noto Sans CJK SC Medium",
+      "file": "NotoSansCJKsc-Medium.otf",
+      "sha256": "5a7988b29180050f7c4f680ab7430c8f690eb88c1c01120f024407d27071c4bd",
+      "woff_source": "sources/NotoSansCJKsc-Medium.woff",
+      "woff_sha256": "326b0a68ffd34aa37e0f19a6e363de5c87977c14e8649d1071356602c28eb64b"
+    },
+    {
+      "role": "title",
+      "family": "Noto Serif CJK SC SemiBold",
+      "file": "NotoSerifCJKsc-SemiBold.otf",
+      "sha256": "131f615ccfa3ade2d89262e2bfad6bf3dddcd6916bb05cd4857bab5da075dd47",
+      "woff_source": "sources/NotoSerifCJKsc-SemiBold.woff",
+      "woff_sha256": "92eb2ca7fdf8796695830ff5e962cd70fb06ce591b8eb60e3b2aa004abd4af8b"
+    },
+    {
+      "role": "seal",
+      "family": "Noto Serif CJK SC Black",
+      "file": "NotoSerifCJKsc-Black.otf",
+      "sha256": "ca1df992254a5580c9d7b055eca525f0883f2ece4b878b6de69e4f55e246ea46",
+      "woff_source": "sources/NotoSerifCJKsc-Black.woff",
+      "woff_sha256": "2a033be6d289d54bde22566947346ff24989e8c54fd16a10e1d1f3a4a2ba83a5"
+    }
+  ]
+}

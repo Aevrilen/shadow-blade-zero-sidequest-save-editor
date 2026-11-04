@@ -1,0 +1,295 @@
+{
+  "components": [
+    {
+      "component": "bytemuck",
+      "version": "1.25.2",
+      "license": "Zlib OR Apache-2.0 OR MIT",
+      "source": "https://static.crates.io/crates/bytemuck/bytemuck-1.25.2.crate",
+      "source_sha256": "95832e849adfb21180ccb6826a99da14e5d266ae5c2e668e1602cf234f153797",
+      "files": [
+        "native/bytemuck-1.25.2/LICENSE-APACHE",
+        "native/bytemuck-1.25.2/LICENSE-MIT",
+        "native/bytemuck-1.25.2/LICENSE-ZLIB"
+      ]
+    },
+    {
+      "component": "bytes",
+      "version": "1.12.1",
+      "license": "MIT",
+      "source": "https://static.crates.io/crates/bytes/bytes-1.12.1.crate",
+      "source_sha256": "fc652a48c352aef3ea3aed32080501cf3ef6ed5da78602a020c991775b0aff04",
+      "files": [
+        "native/bytes-1.12.1/LICENSE"
+      ]
+    },
+    {
+      "component": "futures",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures/futures-0.3.34.crate",
+      "source_sha256": "9a31d2a3fbaaeb2af2368bbdd904aa8e812d3c04a1ee10d3171f52d556e5d0a3",
+      "files": [
+        "native/futures-0.3.34/LICENSE-APACHE",
+        "native/futures-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-channel",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-channel/futures-channel-0.3.34.crate",
+      "source_sha256": "b1f9e3d69d39e4862ffed03ed071a76f9a13ba1d9109d355b0f0aa6b15e393c4",
+      "files": [
+        "native/futures-channel-0.3.34/LICENSE-APACHE",
+        "native/futures-channel-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-core",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-core/futures-core-0.3.34.crate",
+      "source_sha256": "92d699e522242e69e3003b94ecc1f960f3a5e015aa7c5d7486e65ad01dd94f5e",
+      "files": [
+        "native/futures-core-0.3.34/LICENSE-APACHE",
+        "native/futures-core-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-executor",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-executor/futures-executor-0.3.34.crate",
+      "source_sha256": "031b47cf1a3c6cc8bc2fc76cd437f521619387907d469316e7c0bc278f1f5432",
+      "files": [
+        "native/futures-executor-0.3.34/LICENSE-APACHE",
+        "native/futures-executor-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-io",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-io/futures-io-0.3.34.crate",
+      "source_sha256": "53c0fa8157de1303bfffdaa1cc2a673bfffb60102f76b0ef4441659124373fed",
+      "files": [
+        "native/futures-io-0.3.34/LICENSE-APACHE",
+        "native/futures-io-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-macro",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-macro/futures-macro-0.3.34.crate",
+      "source_sha256": "9fb9654ba8355388abeb8dcb4fc62f511300867002afc858860463bdd9fe0c44",
+      "files": [
+        "native/futures-macro-0.3.34/LICENSE-APACHE",
+        "native/futures-macro-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-sink",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-sink/futures-sink-0.3.34.crate",
+      "source_sha256": "1944426bf7d03f1d14f708785e4b33efd750b36d48a157b836b3efc15ede8e1d",
+      "files": [
+        "native/futures-sink-0.3.34/LICENSE-APACHE",
+        "native/futures-sink-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-task",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-task/futures-task-0.3.34.crate",
+      "source_sha256": "cd417de3d1d015fc3bfd2b1ea46dfc7bab72ef86f1cc7cc9c78e728b34a6d1fd",
+      "files": [
+        "native/futures-task-0.3.34/LICENSE-APACHE",
+        "native/futures-task-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "futures-util",
+      "version": "0.3.34",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/futures-util/futures-util-0.3.34.crate",
+      "source_sha256": "0d50a92467f8ba5dd6e3ee5d4bd04d73ab2e4e1c44474a0674821dfce14b79bc",
+      "files": [
+        "native/futures-util-0.3.34/LICENSE-APACHE",
+        "native/futures-util-0.3.34/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "log",
+      "version": "0.4.35",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/log/log-0.4.35.crate",
+      "source_sha256": "5d15f86d12da44cd8d4ec3c73984537eb7f4cadcb9776a575a0a8a05ca11005c",
+      "files": [
+        "native/log-0.4.35/LICENSE-APACHE",
+        "native/log-0.4.35/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "memchr",
+      "version": "2.8.3",
+      "license": "Unlicense OR MIT",
+      "source": "https://static.crates.io/crates/memchr/memchr-2.8.3.crate",
+      "source_sha256": "cf8baf1c55e62ffcace7a9f06f4bd9cd3f0c4beb022d3b367256b91b87513d98",
+      "files": [
+        "native/memchr-2.8.3/COPYING",
+        "native/memchr-2.8.3/LICENSE-MIT",
+        "native/memchr-2.8.3/UNLICENSE"
+      ]
+    },
+    {
+      "component": "pin-project-lite",
+      "version": "0.2.17",
+      "license": "Apache-2.0 OR MIT",
+      "source": "https://static.crates.io/crates/pin-project-lite/pin-project-lite-0.2.17.crate",
+      "source_sha256": "a89322df9ebe1c1578d689c92318e070967d1042b512afbe49518723f4e6d5cd",
+      "files": [
+        "native/pin-project-lite-0.2.17/LICENSE-APACHE",
+        "native/pin-project-lite-0.2.17/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "proc-macro2",
+      "version": "1.0.107",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/proc-macro2/proc-macro2-1.0.107.crate",
+      "source_sha256": "985e7ec9bb745e6ce6535b544d84d6cd6f7ad8bd711c398938ae983b91a766d9",
+      "files": [
+        "native/proc-macro2-1.0.107/LICENSE-APACHE",
+        "native/proc-macro2-1.0.107/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "quote",
+      "version": "1.0.47",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/quote/quote-1.0.47.crate",
+      "source_sha256": "1fbf4db142a473a8d80c26bbf18454ed458bf8d26c8219c331daecfdbd079001",
+      "files": [
+        "native/quote-1.0.47/LICENSE-APACHE",
+        "native/quote-1.0.47/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "safe_arch",
+      "version": "0.7.4",
+      "license": "Zlib OR Apache-2.0 OR MIT",
+      "source": "https://static.crates.io/crates/safe_arch/safe_arch-0.7.4.crate",
+      "source_sha256": "96b02de82ddbe1b636e6170c21be622223aea188ef2e139be0a5b219ec215323",
+      "files": [
+        "native/safe_arch-0.7.4/LICENSE-APACHE.md",
+        "native/safe_arch-0.7.4/LICENSE-MIT.md",
+        "native/safe_arch-0.7.4/LICENSE-ZLIB.md"
+      ]
+    },
+    {
+      "component": "slab",
+      "version": "0.4.12",
+      "license": "MIT",
+      "source": "https://static.crates.io/crates/slab/slab-0.4.12.crate",
+      "source_sha256": "0c790de23124f9ab44544d7ac05d60440adc586479ce501c1d6d7da3cd8c9cf5",
+      "files": [
+        "native/slab-0.4.12/LICENSE"
+      ]
+    },
+    {
+      "component": "syn",
+      "version": "3.0.9",
+      "license": "MIT OR Apache-2.0",
+      "source": "https://static.crates.io/crates/syn/syn-3.0.9.crate",
+      "source_sha256": "d78c8dee4c7bf0e14673097256fed6142ce9d3b85a408189d07482442145823b",
+      "files": [
+        "native/syn-3.0.9/LICENSE-APACHE",
+        "native/syn-3.0.9/LICENSE-MIT"
+      ]
+    },
+    {
+      "component": "unicode-ident",
+      "version": "1.0.27",
+      "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
+      "source": "https://static.crates.io/crates/unicode-ident/unicode-ident-1.0.27.crate",
+      "source_sha256": "a2c754d6c33795a1c324727428e5a7dedb5b06195f9890bdbcba760d3e246563",
+      "files": [
+        "native/unicode-ident-1.0.27/LICENSE-APACHE",
+        "native/unicode-ident-1.0.27/LICENSE-MIT",
+        "native/unicode-ident-1.0.27/LICENSE-UNICODE"
+      ]
+    },
+    {
+      "component": "wide",
+      "version": "0.7.33",
+      "license": "Zlib OR Apache-2.0 OR MIT",
+      "source": "https://static.crates.io/crates/wide/wide-0.7.33.crate",
+      "source_sha256": "0ce5da8ecb62bcd8ec8b7ea19f69a51275e91299be594ea5cc6ef7819e16cd03",
+      "files": [
+        "native/wide-0.7.33/LICENSE-ZLIB.md"
+      ]
+    },
+    {
+      "source": "https://raw.githubusercontent.com/rust-lang/rust/58cf8f9c35b355199727627d07ae34a4e2846d67/LICENSE-MIT",
+      "files": [
+        "native/rust-58cf8f9c35b355199727627d07ae34a4e2846d67/LICENSE-MIT"
+      ],
+      "source_sha256": "b71bd43a069ca0641a9ecfe585ca7b3c53b5cc1608f8b68321168698e28b5ea1"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/rust-lang/rust/58cf8f9c35b355199727627d07ae34a4e2846d67/LICENSE-APACHE",
+      "files": [
+        "native/rust-58cf8f9c35b355199727627d07ae34a4e2846d67/LICENSE-APACHE"
+      ],
+      "source_sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/rust-lang/rust/58cf8f9c35b355199727627d07ae34a4e2846d67/COPYRIGHT",
+      "files": [
+        "native/rust-58cf8f9c35b355199727627d07ae34a4e2846d67/COPYRIGHT"
+      ],
+      "source_sha256": "172020dbfd5b53a226dfde77616190a48dcff519b0bc0e6deb91a8450782c4af"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/openssl/openssl/openssl-4.0.3/LICENSE.txt",
+      "files": [
+        "openssl-4.0.3/LICENSE.txt"
+      ],
+      "source_sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/tcltk/tcl/core-8-6-15/license.terms",
+      "files": [
+        "tcl-8.6.15.license.terms"
+      ],
+      "source_sha256": "c0a69a2bfd757361ec7e6143973b103c90409316b49e9c88db26ad6388e79f16"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/tcltk/tk/core-8-6-15/license.terms",
+      "files": [
+        "tk-8.6.15.license.terms"
+      ],
+      "source_sha256": "2cde822b93ca16ae535c954b7dfe658b4ad10df2a193628d1b358f1765e8b198"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/madler/zlib/v1.3.1/LICENSE",
+      "files": [
+        "zlib-1.3.1.LICENSE"
+      ],
+      "source_sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243"
+    }
+  ],
+  "unavailable": [],
+  "oozextract": {
+    "version": "0.5.7",
+    "declared_license": "MIT",
+    "source_manifest": "native/vendor/oozextract/Cargo.toml",
+    "note": "Published source package contains a license declaration, but no standalone license text."
+  },
+  "notes": [
+    "OpenSSL 4.0.3 upstream has no separate NOTICE.md at the pinned tag; LICENSE.txt is retained."
+  ]
+}

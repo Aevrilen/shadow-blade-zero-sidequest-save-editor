@@ -1,0 +1,7 @@
+python313.zip
+.
+Lib
+..
+..\vendor
+
+# Fixed relative paths; intentionally do not import site.

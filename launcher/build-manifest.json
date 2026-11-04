@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "architecture": "Windows x64",
+  "subsystem": "windows-gui",
+  "entrypoint": "launcher_entry",
+  "compiler": "Microsoft Visual C++ 14.44.35207",
+  "windows_sdk": "10.0.26100.0",
+  "crt_dependency": false,
+  "shell_or_cmd_dependency": false,
+  "source": "launcher/launcher.c",
+  "source_sha256": "e4bd9832e015fc24c8206c5d1c4bf288d8b143c89d5a7c5a86f2a372a4a55acd",
+  "executable": "影之刃零支线存档修改器.exe",
+  "sha256": "c3ba4c5457f191255be68433cb16534bb970f06b9d26ae67d92c427e3f17309d",
+  "runtime_entry": "runtime/pythonw.exe",
+  "job_lifecycle": "only explicitly assigned desktop process; its explicitly opened folders can break away"
+}

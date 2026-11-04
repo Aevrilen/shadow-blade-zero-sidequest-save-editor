@@ -1,0 +1,17 @@
+{
+  "JianXiYiShi": {
+    "name": "见习医师",
+    "rewards": [{"id": "AC_Drink", "quantity": 1}],
+    "evidence": "XiGu/BPF_YuEr_XG；Xigu.AC_Drink；开发交接附录 D"
+  },
+  "JiuSiFuShang": {
+    "name": "救死扶伤",
+    "rewards": [{"id": "AC_BreakDrink", "quantity": 1}],
+    "evidence": "XiGu/BPF_YuEr_FJZL；FuJiZhiLin.AC_BreakDrink；开发交接附录 D"
+  },
+  "BaiShanMiWen": {
+    "name": "白山秘闻",
+    "rewards": [{"id": "AC_HeavyAttackDamage", "quantity": 1}],
+    "evidence": "DuLiZhiXian/BaiShanMiWen/BPF_JianOuQiangOu_Death；Zhengdaodaying.AC_HeavyAttackDamage；开发交接附录 D"
+  }
+}

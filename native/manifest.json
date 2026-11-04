@@ -1,0 +1,8 @@
+{
+  "abi": 1,
+  "decoder": "oozextract",
+  "version": "0.5.7",
+  "library": "pbz_codec.dll",
+  "sha256": "cc98ce6cfe62d23cdaeaa350a5a011984e03582fb54ad466b970e741b721e179",
+  "license": "MIT"
+}
